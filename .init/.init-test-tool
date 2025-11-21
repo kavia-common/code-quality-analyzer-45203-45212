@@ -1,0 +1,4 @@
+{
+    "command": "pytest",
+    "working_directory": "/home/kavia/workspace/code-generation/code-quality-analyzer-45203-45212/bug_detector_backend"
+}
